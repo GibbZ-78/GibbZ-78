@@ -17,7 +17,8 @@ Fun fact :zap: about me: I have :wrench: designed and built :nut_and_bolt: an 8x
 
 Have a nice day, wanderer!
 
-![Mes stats Github](https://github-readme-stats.vercel.app/api?username=GibbZ-78&show_icons=true&theme=tokyonight)
+![Mes stats Github](https://github-readme-stats.vercel.app/api?username=GibbZ-78&show_icons=true&theme=tokyonight) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GibbZ-78)
 
 <!---
 GibbZ-78/GibbZ-78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
