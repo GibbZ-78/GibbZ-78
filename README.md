@@ -1,6 +1,6 @@
 👋 Hi visitor! 
 
-My nickname is GibbZ (OK, @GibbZ-78 within the Github environment though...).  
+My nickname is **GibbZ** (OK, @GibbZ-78 within the Github environment though...).  
 I’m always interested 👀 in learning and developing new skills such as :
 - foreign languages
 - coding
