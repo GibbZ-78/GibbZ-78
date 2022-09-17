@@ -20,4 +20,5 @@ Have a nice day, wanderer 👽!
 
 ![Mes stats Github](https://github-readme-stats.vercel.app/api?username=GibbZ-78&show_icons=true&theme=default) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GibbZ-78)
+[![trophy](https://github-profile-trophy.vercel.app/?username=GibbZ-78)](https://github.com/ryo-ma/github-profile-trophy)
 
