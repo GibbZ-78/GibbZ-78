@@ -18,6 +18,6 @@ Fun facts ⚡ about me: I have designed :wrench: and built :nut_and_bolt: an 8x4
 
 Have a nice day, wanderer 👽!
 
-![Mes stats Github](https://github-readme-stats.vercel.app/api?username=GibbZ-78&show_icons=true&theme=tokyonight) 
+![Mes stats Github](https://github-readme-stats.vercel.app/api?username=GibbZ-78&show_icons=true&theme=default) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GibbZ-78)
 
